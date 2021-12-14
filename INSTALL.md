@@ -12,6 +12,8 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Copy `dracula-theme.jsonc` to `~/.gitkraken/themes/dracula-theme.jsonc`
+2. Then go to `Preferences > UI Customization > Theme`
+3. Choose `Dracula`
+
+See also: [GitKraken Custom-Themes](https://support.gitkraken.com/start-here/themes/)
