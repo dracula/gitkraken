@@ -89,7 +89,18 @@
       "terminal__repo-name-color": "fade(@green, 70%)",
       "terminal__repo-branch-color": "fade(@blue, 70%)",
       "terminal__repo-tag-color": "fade(@ltblue, 70%)",
-      "terminal__repo-upstream-color": "fade(@yellow, 70%)"
+      "terminal__repo-upstream-color": "fade(@yellow, 70%)",
+      // git tree
+      "graph-light-blue": "@blue",
+      "graph-dark-blue": "@text-accent",
+      "graph-magenta": "@ltblue",
+      "graph-purple": "@blue",
+      "graph-dark-purple": "@text-accent",
+      "graph-red": "@ltblue",
+      "graph-orange": "@blue",
+      "graph-yellow": "@text-accent",
+      "graph-green": "@ltblue",
+      "graph-teal": "@blue"
     }
   }
 }
