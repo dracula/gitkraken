@@ -12,7 +12,9 @@ Download using the [GitHub .zip download](https://github.com/dracula/gitkraken/a
 
 #### Activating theme
 
-1. Copy `dracula-theme.jsonc` to `~/.gitkraken/themes/dracula-theme.jsonc`
+1. Copy `dracula-theme.jsonc` to the theme folder:
+    1. In Windows will be `C:\Users\USER\AppData\Roaming\.gitkraken\themes`
+    2. In Linux will be `~/.gitkraken/themes`
 2. Then go to `Preferences > UI Customization > Theme`
 3. Choose `Dracula`
 
