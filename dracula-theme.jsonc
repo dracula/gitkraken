@@ -93,16 +93,16 @@
       "terminal__repo-tag-color": "fade(@cyan, 70%)",
       "terminal__repo-upstream-color": "fade(@yellow, 70%)",
       // git tree
-      "graph-color-0": "@comment",
-      "graph-color-1": "@purple",
-      "graph-color-2": "@cyan",
-      "graph-color-3": "@green",
-      "graph-color-4": "@orange",
-      "graph-color-5": "@yellow",
-      "graph-color-6": "@red",
-      "graph-color-7": "@purple",
-      "graph-color-8": "@cyan",
-      "graph-color-9": "@green",
+      "graph-color-0": "@purple",
+      "graph-color-1": "@cyan",
+      "graph-color-2": "@green",
+      "graph-color-3": "@orange",
+      "graph-color-4": "@yellow",
+      "graph-color-5": "@red",
+      "graph-color-6": "@purple",
+      "graph-color-7": "@cyan",
+      "graph-color-8": "@green",
+      "graph-color-9": "@orange"
     }
   }
 }
