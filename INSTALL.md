@@ -10,6 +10,15 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 Download using the [GitHub .zip download](https://github.com/dracula/gitkraken/archive/master.zip) option and unzip them.
 
+#### Install using [Homebrew](https://brew.sh)
+
+Easily install from [dracula/homebrew-install](https://github.com/dracula/homebrew-install/blob/master/Casks/dracula-gitkraken.rb):
+
+``` sh
+brew tap dracula/install
+brew install --cask dracula-gitkraken
+```
+
 #### Activating theme
 
 1. Copy `dracula-theme.jsonc` to the theme folder:
