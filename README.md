@@ -2,7 +2,17 @@
 
 > A dark theme for [GitKraken](https://www.gitkraken.com).
 
+## Modes
+
+This theme comes in two variants, `Dracula` and `Dracula Dimmed`.
+
+### Dracula
+
 ![Screenshot](./screenshot.png)
+
+### Dracula Dimmed
+
+![Screenshot](./screenshot-dimmed.png)
 
 ## Install
 
