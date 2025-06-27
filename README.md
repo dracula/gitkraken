@@ -4,15 +4,15 @@
 
 ## Modes
 
-This theme comes in two variants, `Dracula` and `Dracula Dimmed`.
+This theme comes in two variants, `Dracula` and `Dracula Soft`.
 
 ### Dracula
 
 ![Screenshot](./screenshot.png)
 
-### Dracula Dimmed
+### Dracula Soft
 
-![Screenshot](./screenshot-dimmed.png)
+![Screenshot](./screenshot-soft.png)
 
 ## Install
 
